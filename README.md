@@ -2,7 +2,7 @@
 Simple Dentist Calendar
 
 
-![GitHub Logo](ScreenShots/1.png)
-![GitHub Logo](ScreenShots/2.png)
-![GitHub Logo](ScreenShots/3.png)
-![GitHub Logo](ScreenShots/4.png)
+![GitHub Logo](Screenshots/1.png)
+![GitHub Logo](Screenshots/2.png)
+![GitHub Logo](Screenshots/3.png)
+![GitHub Logo](Screenshots/4.png)
