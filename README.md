@@ -1,6 +1,10 @@
 # DentistCalendar
 Simple Dentist Calendar
 
+This project coded with using by .net core and Calendar.js
+
+
+
 
 ![GitHub Logo](Screenshots/1.png)
 ![GitHub Logo](Screenshots/2.png)
